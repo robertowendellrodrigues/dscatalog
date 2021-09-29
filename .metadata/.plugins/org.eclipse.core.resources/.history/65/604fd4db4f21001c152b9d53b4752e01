@@ -1,0 +1,5 @@
+package com.alphatec.dscatalog.repositories;
+
+public class CategoryRepository {
+
+}
